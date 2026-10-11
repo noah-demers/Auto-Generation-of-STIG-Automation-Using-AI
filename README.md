@@ -7,7 +7,6 @@ This project investigates whether a fine-tuned code-generation model can interpr
 
 The goal is to reduce the manual scripting burden on cybersecurity engineers while preserving human oversight.
 
-This is a research **prototype**, not a certified compliance tool or an unattended production deployment system.
 
 ## Scope
 
