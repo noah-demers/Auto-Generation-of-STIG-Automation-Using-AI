@@ -1,7 +1,7 @@
 # Auto-Generation-of-STIG-Automation-Using-AI-
 
 
-Second-semester research developed during my Naval Information Warfare Center internship at the University of Hawaii at Manoa.
+This is my second-semester research developed during my Naval Information Warfare Center internship at the University of Hawaii at Manoa.
 
 This project investigates whether a fine-tuned code-generation model can interpret Security Technical Implementation Guide (STIG) rules, distinguish automatable checks from checks requiring manual review, and generate PowerShell check logic for integration with Evaluate-STIG.
 
