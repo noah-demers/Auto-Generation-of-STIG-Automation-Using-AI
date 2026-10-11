@@ -318,10 +318,3 @@ Paths and HPC job settings must be adjusted for the environment in which the scr
 - Test generated checks in an isolated, authorized environment.
 - Treat generated findings as evidence requiring validation, not as automatic certification of compliance.
 
-## Credits
-
-- Noah deMers — dataset preparation, model fine-tuning, evaluation, and generation pipeline.
-- Dr. Curtis Arnold — subject-matter expert feedback on evaluation results.
-- William Littleton — faculty advisor.
-
-Developed as part of the second-semester Core4ce / ACE Cyber research work at the University of Hawaiʻi at Mānoa.
